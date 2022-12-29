@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Hi there 👋
 ### 💬 Ask me anything!
 
@@ -6,8 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bat522)](https://solved.ac/{handle})
-
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
 
 <!--
