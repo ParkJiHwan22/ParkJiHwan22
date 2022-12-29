@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![ParkJiHwan22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)
-![ParkJiHwan22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJiHwan22&hide=contribs,prs)
+![ParkJiHwan22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJiHwan22&show_icons=true)
 
 
 <!--
