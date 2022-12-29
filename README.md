@@ -3,7 +3,9 @@
 
 [![ParkJiHwan22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)
-[![ParkJiHwan22's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)
+[![Solved.ac
+프로필](http://bat522.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 
 
 <!--
