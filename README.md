@@ -1,11 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=230&section=header&text=JiHwan%20Park&fontSize=65&fontAlignY=45)
+
 
 ### Hi there 👋
 ### 💬 Ask me anything!🌱
 
 
-[![ParkJiHwan22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)
+[![ParkJiHwan22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bat522)](https://solved.ac/bat522/)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bat522)](https://solved.ac/bat522/)
 
 <!--
 
