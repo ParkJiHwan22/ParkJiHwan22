@@ -5,11 +5,12 @@
 ### 💬 Ask me anything!🌱
 
 
-[![ParkJiHwan22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bat522)](https://solved.ac/bat522/)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bat522)](https://solved.ac/bat522/)
 
 
 <!--
 
+[![ParkJiHwan22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)
 [![ParkJiHwan22's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJiHwan22)](https://github.com/ParkJiHwan22/github-readme-stats)
