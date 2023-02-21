@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3&height=230&section=header&text=JiHwan%20Park&fontSize=65&fontAlignY=45)
 
 
 ### Hi there 👋
