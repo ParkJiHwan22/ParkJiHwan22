@@ -23,7 +23,10 @@
 </p>
  
 <h3>🏆 BAEKJOON </h3>
-  
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bat522)](https://solved.ac/bat522)
+
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=bat522&theme=warm)
   
  </div>
