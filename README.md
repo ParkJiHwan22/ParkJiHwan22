@@ -8,24 +8,26 @@
 <p> ✔ After completing my education, I would like to learn about data analysis and machine learning. </p>
 
 ---
-
+<div align="center">
+ 
 <h3>⚙ Tech Stack </h3>
-<p align ="center">  </p>
-
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="border-radius:10%;"/>
 </p>
 
 <h3>💻 About Me </h3>
-
+<p> 
 📌 MLP 풀스택 개발자 취업캠프(Python) 2기( (2022.12 ~ )<br/>
 📌 Univ of Seoul - Environmental Horticulture (2017.03 ~ )<br/>
-
-<h3>🏆 BAEKJOON </h3>
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=bat522&theme=warm)
+</p>
  
+<h3>🏆 BAEKJOON </h3>
+  
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=bat522&theme=warm)
+  
+ </div>
+
 </p>
 
 <!--
