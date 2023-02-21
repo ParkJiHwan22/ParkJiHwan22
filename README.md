@@ -1,28 +1,32 @@
+---
+<p> ✔ Hello! I'm Jihwan. I'm majoring in Environmental Horticulture. </p>
+<p> ✔ I’m currently learning front-end technologies such as
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=white"/>.
+</p>
+<p> ✔ After completing my education, I would like to learn about data analysis and machine learning. </p>
 
-<p align ="center"> 🌱Hello! I'm JiHWan. </p>
+---
 
-
-<h3 align ="center">⚙ Tech Stack ⚙</h3>
+<h3>⚙ Tech Stack </h3>
 <p align ="center">  </p>
 
-<p align ="center">
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="border-radius:10%;"/>
-<br/>
 </p>
 
+<h3>💻 About Me </h3>
 
-<br/>
-<h3 align ="center">💻 About Me 🌳</h3>
-<p align ="center">
-
-</p>
-<p align="center"> 
 📌 MLP 풀스택 개발자 취업캠프(Python) 2기( (2022.12 ~ )<br/>
 📌 Univ of Seoul - Environmental Horticulture (2017.03 ~ )<br/>
-</p>
+
+<h3>🏆 BAEKJOON </h3>
 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=bat522&theme=warm)
+ 
+</p>
 
 <!--
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bat522)](https://solved.ac/bat522/)
