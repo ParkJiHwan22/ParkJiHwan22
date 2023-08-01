@@ -1,9 +1,6 @@
 ---
 <p> ✔ Hello! I'm Jihwan. I'm majoring in Environmental Horticulture. </p>
-<p> ✔ I’m currently learning Back-end technology such as <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" style="border-radius:10%;"/>.
-
 </p>
-<p> ✔ After completing my education, I would like to learn about data analysis and machine learning. </p>
 
 ---
 <div align="center">
@@ -12,6 +9,7 @@
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" style="border-radius:10%;"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="border-radius:10%;"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" style="border-radius:10%;"/>
 </p>
  
  <p>
@@ -22,7 +20,7 @@
   
 <h3>💻 About Me </h3>
 <p> 
-📌 멀티잇 풀스택 개발자 취업캠프(Python) 2기 (2022.12 ~ )<br/>
+📌 멀티잇 풀스택 개발자 취업캠프(Python) 2기 (2022.12 ~ 2023.06)<br/>
 📌 Univ of Seoul - Environmental Horticulture (2017.03 ~ )<br/>
 </p>
  
