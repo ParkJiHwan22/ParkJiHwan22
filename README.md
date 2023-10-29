@@ -1,5 +1,5 @@
 ---
-<p> ✔ Hello! I'm Jihwan. I'm majoring in Environmental Horticulture. </p>
+<p> ✔ Hello! I'm Jihwan. I'm majoring in Environmental Horticulture🌱. </p>
 </p>
 
 ---
