@@ -7,16 +7,19 @@
 <div align="center">
  
 <h3>⚙ Tech Stack </h3>
+
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" style="border-radius:10%;"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="border-radius:10%;"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" style="border-radius:10%;"/>
+  <img src="https://img.shields.io/badge/Java-e05d44?style=flat&logo=Java&logoColor=white" style="border-radius:10%;"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring%20Boot&logoColor=white" style="border-radius:10%;"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" style="border-radius:10%;"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" style="border-radius:10%;"/>
 </p>
- 
- <p>
- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javaScript&logoColor=white"/>
+
+<p>
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="border-radius:10%;"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javaScript&logoColor=white"/>
 </p>
   
 <h3>💻 About Me </h3>
