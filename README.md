@@ -24,9 +24,9 @@
 
 <h3>💻 About Me </h3>
 <p> 
-📌 멀티잇 풀스택 개발자 취업캠프(Python) 2기 (2022.12 ~ 2023.06)<br/>
+📌 멀티잇 풀스택 개발자 취업캠프(Python) 2기 수료 (2022.12 ~ 2023.06)<br/>
 📌 Univ of Seoul - Environmental Horticulture (2017.03 ~ 2024.02)<br/>
-📌 SSAFY 11기 (2024.01 ~ )<br/>
+📌 SSAFY 11기 수료 (2024.01 ~ 2024.12)<br/>
 </p>
  
 <h3>🏆 BAEKJOON </h3>
